@@ -27,3 +27,13 @@ https://linuxize.com/post/gitignore-ignoring-files-in-git/
 5. write the train in train.py and save the model to "./models"
 6. config.py: give all the paths (metadata, images) and some arguments: lr, bs
 7. create requirements.txt: pip freeze > requirements.txt
+8. Part of git:
+-- git init
+-- git remote add link_of_repo
+-- git status
+-- git branch
+-- git add .
+-- git commit
+-- git push
+
+____ Take care of .gitignore file.

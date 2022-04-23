@@ -1,8 +1,8 @@
 # Problem understanding: Cat vs. Classifier
 In this toy project, we aim to build a deep learning clssifier that predicts whether an image is cat or not. </br>
 
-<img src="./data/Images/cat.0.jpg">
-<img src="./data/Images/dog.0.jpg" align="right">
+<img src="images/cat.0.jpg">
+<img src="images/dog.0.jpg" align="right">
 <!-- <p align="center">
 	<img src="./data/Images/cat.0.jpg" align="left">
 </p>
@@ -75,11 +75,11 @@ $python3 predict.py --image_path "./data/Images/cat.0.jpg"
 
 <div style="display:flex;align-items:center">
     <div>
-        <h5> <a href='..'> Mr. A </a> </h5> <img src="data/Images/cat.0.jpg" height= 7% width= 7%>
+        <h5> <a href='..'> Mr. A </a> </h5> <img src="images/cat.0.jpg" height= 7% width= 7%>
 <div>
-    <h5> <a href='.'> Mr. B </a> </h5> <img src="data/Images/cat.0.jpg" height= 7% width= 7%>
+    <h5> <a href='.'> Mr. B </a> </h5> <img src="images/cat.0.jpg" height= 7% width= 7%>
     
 <div>
-    <h5> <a href='.'> Mm. K </a> </h5> <img src="data/Images/cat.0.jpg" height= 7% width= 7%>
+    <h5> <a href='.'> Mm. K </a> </h5> <img src="images/cat.0.jpg" height= 7% width= 7%>
     
 </div>
