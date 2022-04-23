@@ -3,13 +3,6 @@ In this toy project, we aim to build a deep learning clssifier that predicts whe
 
 <img src="images/cat.0.jpg">
 <img src="images/dog.0.jpg" align="right">
-<!-- <p align="center">
-	<img src="./data/Images/cat.0.jpg" align="left">
-</p>
-
-<!-- <p align="center">
-	<img src="./data/Images/dog.0.jpg" align="right">
-</p> -->
 
 <br>
 
