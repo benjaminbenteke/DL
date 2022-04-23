@@ -59,7 +59,7 @@ $python3 predict.py --image_path "./data/Images/cat.0.jpg"
 ```
 
 ``` Example: Result```  </br>
-![caption](data/Images/cat.0.jpg) </br>
+![caption](images/cat.0.jpg) </br>
 {'class': 'cat', 'confidence': '0.5970718264579773'}
 
 
