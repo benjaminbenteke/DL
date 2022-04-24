@@ -1,8 +1,12 @@
 # Problem understanding: Cat vs. Classifier #
 In this toy project, we aim to build a deep learning clssifier that predicts whether an image is cat or not. </br>
 
-<img src="images/cat.0.jpg" align="center">
-<img src="images/dog.0.jpg" align="right">
+<!-- <img src="images/cat.0.jpg" align="center">
+<img src="images/dog.0.jpg" align="right"> -->
+
+Cat            |  Dog
+:--------------:|:--------:
+![](images/cat.0.jpg)  |  ![](images/dog.0.jpg)
 
 <br>
 
@@ -61,6 +65,11 @@ $python3 predict.py --image_path "./data/Images/cat.0.jpg"
 ``` Example: Result```  </br>
 ![caption](images/cat.0.jpg) </br>
 {'class': 'cat', 'confidence': '0.5970718264579773'}
+---
+___
+
+---
+___
 
 # Related Papers #
 
